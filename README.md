@@ -12,7 +12,7 @@ Pytorch 및 TF2.0 논문 구현 스터디 입니다.
 
 
 ## 논문 구현 리스트
-1. DETR (논문 : https://arxiv.org/abs/2005.12872)(Github : https://github.com/facebookresearch/detr)
+1. DETR (논문 : https://arxiv.org/abs/2005.12872)  (Github : https://github.com/facebookresearch/detr)
 2. ...
 3. ...
 
